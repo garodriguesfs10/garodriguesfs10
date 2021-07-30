@@ -10,13 +10,13 @@
 
 - 🎓 &nbsp; Sou formado em Engenharia de Computação.
 
-- 🤖 &nbsp; Me aprofundando em .Net Core 5 e tecnologias de nuvem.
+- 🤖 &nbsp; Me aprofundando em .Net Core 5, Windows Forms e tecnologias de nuvem.
 
 - 🌱  Hobby: Jogar tênis
 
 <h3>🛠 Trabalhando com</h3>
 
-- 💻 &nbsp; C# | ASP. NET MVC | SQL SERVER| SQL 
+- 💻 &nbsp; C# | ASP. NET MVC | SQL SERVER| SQL | WINDOWS FORMS
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
