@@ -20,9 +20,6 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-<h3>🛠 Para aprender</h3>
-
-- 🔧 &nbsp; Azure | Docker | CI/CD | Testes
 <hr>
 
 
