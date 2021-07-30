@@ -12,7 +12,7 @@
 
 - 🤖 &nbsp; Me aprofundando em .Net Core 5, Windows Forms e tecnologias de nuvem.
 
-- 🌱  Hobby: Jogar tênis
+- 🌱 &nbsp; Hobby: Jogar tênis
 
 <h3>🛠 Trabalhando com</h3>
 
