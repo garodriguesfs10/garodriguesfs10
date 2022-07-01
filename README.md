@@ -21,7 +21,7 @@
 <h3>🛠 Experiência profissional também com</h3>
 
 - 💻 &nbsp; ASP.NET MVC | WEB API | React | JavaScript | HTML | CSS
-- 
+
 <hr>
 
 
