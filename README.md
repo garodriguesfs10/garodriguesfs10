@@ -16,8 +16,12 @@
 
 <h3>🛠 Trabalhando com</h3>
 
-- 💻 &nbsp; C# | .NET Framework | SQL SERVER| SQL | WINDOWS FORMS
+- 💻 &nbsp; C# | .NET Framework | SQL SERVER (PROCEDURES, FUNCTIONS, VIEWS) | WINDOWS FORMS
 
+<h3>🛠 Experiência profissional também com</h3>
+
+- 💻 &nbsp; ASP.NET MVC | WEB API | React | JavaScript | HTML | CSS
+- 
 <hr>
 
 
