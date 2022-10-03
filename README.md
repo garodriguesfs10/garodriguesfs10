@@ -1,10 +1,14 @@
 
 ### Olá, 👋<h2> Meu nome é Gabriel Rodrigues</h2>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h3> 👨🏻💻 Sobre mim </h3>
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 😃 &nbsp; Atualmente sou desenvolvedor .Net Jr.
 
