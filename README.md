@@ -1,16 +1,9 @@
 
 ### Olá, 👋<h2> Meu nome é Gabriel Rodrigues</h2>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <h3> 👨🏻💻 Sobre mim </h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-- 😃 &nbsp; Atualmente sou desenvolvedor .Net Jr.
+- 😃 &nbsp; Atualmente sou desenvolvedor .Net Jr. <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 
 - 🎓 &nbsp; Sou formado em Engenharia de Computação.
 
@@ -40,8 +33,9 @@
 
 
 </p>
-
-LinkedIn:  https://www.linkedin.com/in/gabrielrodriguesro/
+<a href="https://www.linkedin.com/in/gabrielrodriguesro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
 <br>
 E-mail: garodriguesfs10@gmail.com
 <hr>
