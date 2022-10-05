@@ -3,7 +3,7 @@
 
 <h3> 👨🏻💻 Sobre mim </h3>
 
-- 😃 &nbsp; Atualmente sou desenvolvedor .Net Jr. <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+- 😃 &nbsp; Atualmente sou desenvolvedor .Net Jr.
 
 - 🎓 &nbsp; Sou formado em Engenharia de Computação.
 
@@ -21,21 +21,16 @@
 
 <hr>
 
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=garodriguesfs10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=garodriguesfs10&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=garodriguesfs10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 
 <h3> 🤝🏻 Para entrar em contato </h3>
 
-
-
-
-<p align="center">
-
-
-
-</p>
-<a href="https://www.linkedin.com/in/gabrielrodriguesro/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabrielrodriguesro/) 
 <br>
 E-mail: garodriguesfs10@gmail.com
 <hr>
