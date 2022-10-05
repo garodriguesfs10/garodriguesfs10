@@ -21,16 +21,15 @@
 
 <hr>
 
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=garodriguesfs10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=garodriguesfs10&theme=tokyonight&hide_border=false)<br/>
+# 📊 Linguagens mais usadas no GitHub:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=garodriguesfs10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 <h3> 🤝🏻 Para entrar em contato </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabrielrodriguesro/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodriguesro/) 
 <br>
 E-mail: garodriguesfs10@gmail.com
 <hr>
