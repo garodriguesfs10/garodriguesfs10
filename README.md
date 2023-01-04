@@ -7,17 +7,17 @@
 
 - 🎓 &nbsp; Sou formado em Engenharia de Computação.
 
-- 🤖 &nbsp; Me aprofundando em .Net Core 6, MicroServiços e tecnologias de nuvem.
+- 🤖 &nbsp; Me aprofundando em tecnologias de nuvem.
 
 - 🌱 &nbsp; Hobby: Jogar tênis
 
 <h3>🛠 Trabalhando com</h3>
 
-- 💻 &nbsp; C# | .NET Framework | SQL SERVER (PROCEDURES, FUNCTIONS, VIEWS) | WINDOWS FORMS
+- 💻 &nbsp; C# | .NET CORE | Microserviços | Docker | Azure DevOps 
 
 <h3>🛠 Experiência profissional também com</h3>
 
-- 💻 &nbsp; ASP.NET MVC | WEB API | React | JavaScript | HTML | CSS
+- 💻 &nbsp; .NET Framework | Sql Server (Procedures, Functions, Views) | Windows Forms | ASP.NET MVC | WEB API | React | JavaScript | Html | Css
 
 <hr>
 
