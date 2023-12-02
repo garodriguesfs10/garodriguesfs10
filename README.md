@@ -3,7 +3,7 @@
 
 <h3> 👨🏻💻 Sobre mim </h3>
 
-- 😃 &nbsp; Atualmente sou desenvolvedor .Net Jr.
+- 😃 &nbsp; Sou desenvolvedor .Net com mais de 3 anos de experiência
 
 - 🎓 &nbsp; Sou formado em Engenharia de Computação.
 
