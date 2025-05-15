@@ -1,35 +1,45 @@
-
-### Olá, 👋<h2> Meu nome é Gabriel Rodrigues</h2>
-
-<h3> 👨🏻💻 Sobre mim </h3>
-
-- 😃 &nbsp; Sou desenvolvedor .Net com mais de 3 anos de experiência
-
-- 🎓 &nbsp; Sou formado em Engenharia de Computação.
-
-- 🤖 &nbsp; Me aprofundando em tecnologias de nuvem.
-
-- 🌱 &nbsp; Hobby: Jogar tênis
-
-<h3>🛠 Trabalhando com</h3>
-
-- 💻 &nbsp; C# | .NET CORE | Microserviços | Docker | Azure DevOps 
-
-<h3>🛠 Experiência profissional também com</h3>
-
-- 💻 &nbsp; .NET Framework | Sql Server (Procedures, Functions, Views) | Windows Forms | ASP.NET MVC | WEB API | React | JavaScript | Html | Css
-
-<hr>
-
-# 📊 Linguagens mais usadas no GitHub:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garodriguesfs10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h3 align="center">Software Engineer | Backend Developer
 
 ---
 
-<h3> 🤝🏻 Para entrar em contato </h3>
+### 👨🏻‍💻 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodriguesro/) 
-<br>
-E-mail: garodriguesfs10@gmail.com
-<hr>
+- 🔧 Desenvolvedor Backend especializado em **.NET**, com mais de **4 anos de experiência** em aplicações escaláveis.
+- 🏗️ Atuei em empresas dos setores de **marketplace, RH e saúde**, desenvolvendo sistemas robustos com foco em performance e boas práticas.
+- 🎓 Graduado em **Engenharia de Computação** com pós-graduação em **Cloud Computing (AWS/Azure)** .
+
+---
+
+### 💼 Stack principal
+
+- ⚙️ **C#**, **.NET Core/8**, **Web API**, **Microservices**, **Entity Framework Core**, **Dapper**
+- 🐘 **SQL Server** (procedures, views, functions), **MongoDB**, **Redis**
+- 🐇 **RabbitMQ**, **Azure Service Bus**
+- 🐳 **Docker**, **Kubernetes**, **AKS**, **Azure DevOps Pipelines**
+- 🔍 **Kibana**, **Dynatrace**
+- 🧪 **XUnit**, **Moq**
+
+---
+
+### 🧠 Outras experiências
+
+- 🖥️ **.NET Framework**, **Windows Forms**, **ASP.NET MVC**, **PostgreSQL**
+- 🌐 **HTML**, **CSS**, **JavaScript**, **Razor Pages**, **React (básico)**
+- 🔧 **Git**, **Scrum**, **Clean Architecture**, **CQRS**, **SOLID**
+
+---
+
+### 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garodriguesfs10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/garodriguesfs10)
+
+---
+
+### 📫 Entre em contato comigo
+
+[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Rodrigues-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrodriguesro/)](https://www.linkedin.com/in/gabrielrodriguesro/)
+[![Gmail](https://img.shields.io/badge/-garodriguesfs10@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:garodriguesfs10@gmail.com)
+
+---
+
